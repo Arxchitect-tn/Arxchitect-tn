@@ -1,10 +1,5 @@
 ### Ajibola Lawal
 
-AI evaluation & data annotation. I build self-hosted automation that runs unattended —
-multi-agent orchestration, scheduled health monitoring, and the infrastructure underneath it.
-
-**Selected work**
-
 - **[homelab-sentinel](https://github.com/Arxchitect-tn/homelab-sentinel)** — an hourly health
   monitor for a self-hosted box: containers, resources, DNS, exposure, failed units. Graded exit
   codes so an expected warning doesn't blind the monitor itself.
